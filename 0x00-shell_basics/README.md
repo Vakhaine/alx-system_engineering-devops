@@ -1,1 +1,1 @@
-Contains an executable pwd script that prints the absolute path name of the current working directory, executable ls script that display the contents list of the current directory
+Contains an executable pwd script that prints the absolute path name of the current working directory, executable ls script that display the contents list of the current directory, executable cd /home script that changes the working directory to the user's home directory
