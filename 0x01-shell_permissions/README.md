@@ -1,1 +1,1 @@
-su betty to switch user to betty, id -un or whoami to print the effective username of the current user, groups to prints all the groups the current user is part of
+su betty to switch user to betty, id -un or whoami to print the effective username of the current user, groups to prints all the groups the current user is part of, chown betty hello changes the file hello to the user betty
