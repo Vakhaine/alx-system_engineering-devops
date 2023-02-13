@@ -1,1 +1,1 @@
-#echo "Hello, World" prnts out Hello World, echo "\"(Ôo)'" prints out a confused smiley, cat /etc/passwd displays the file passwd, cat /etc/passwd /etc/hosts display the content of the file passwd and hosts, 
+#echo "Hello, World" prnts out Hello World, echo "\"(Ôo)'" prints out a confused smiley, cat /etc/passwd displays the file passwd, cat /etc/passwd /etc/hosts display the content of the file passwd and hosts, tail /etc/passwd to display the last 10 lines of the file, 
