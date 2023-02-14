@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(tr -d | cut -c -1 '\n')
+echo $(tr -d '/n' | cut -c -1)
